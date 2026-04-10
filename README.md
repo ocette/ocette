@@ -72,7 +72,7 @@ const profil = {
 ## 🚀 Mes projets
    Projet | Description | Technologies | Lien |
  |--------|-------------|--------------|------|
- | [Palette Hunter](https://github.com/ocette/palette-hunter) | Palette Hunter est une application web fullstack permettant de découvrir des images et leurs palettes de couleurs. On peut rechercher des images par couleur via un color picker, filtrer par tag, consulter leurs palettes, ajouter ses propres images et sauvegarder ses favoris. | React, TailwindCSS, Neon |[Demo](https://front-cyan-eta.vercel.app/) |
+ | [Palette Hunter](https://github.com/ocette/palette-hunter) | Palette Hunter est une application web fullstack permettant de découvrir des images et leurs palettes de couleurs. On peut rechercher des images par couleur via un color picker, filtrer par tag, consulter leurs palettes, ajouter ses propres images et sauvegarder ses favoris. | React, TailwindCSS, Neon |[Demo](https://palette-hunter.vercel.app/) |
  | [Elips Page](https://github.com/Candichou/elips_page) | Single Page Application dédiée à Elips, candidate emblématique de Drag | React, TailwindCSS, | [Demo](https://elips-page.vercel.app/) |
 
 ---
