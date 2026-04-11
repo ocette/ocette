@@ -22,8 +22,8 @@ Actuellement en formation développement web fullstack, j'enrichis mon parcours 
 
 ### 🚀 Mes projets
 
-- ✅ **Palette Hunter** — App fullstack pour explorer des images et leurs palettes de couleurs. Color picker, filtrage par tag, favoris. [Repo](https://github.com/ocette/palette-hunter) / [Démo](https://front-cyan-eta.vercel.app/)
-- ✅ **Elips Page** — Single Page Application dédiée à Elips, candidate emblématique de Drag Race France. [Repo](https://github.com/Candichou/elips_page) / [Démo](https://elips-page.vercel.app/)
+- ✅ **Palette Hunter** — [Repo](https://github.com/ocette/palette-hunter) / [Démo](https://front-cyan-eta.vercel.app/)
+- ✅ **Elips Page** — [Repo](https://github.com/Candichou/elips_page) / [Démo](https://elips-page.vercel.app/)
 
 
 
