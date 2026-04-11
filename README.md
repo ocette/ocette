@@ -22,7 +22,7 @@ Actuellement en formation développement web fullstack, j'enrichis mon parcours 
 
 ### 🚀 Mes projets
 
-- ✅ **Palette Hunter** — [Repo](https://github.com/ocette/palette-hunter) / [Démo](https://front-cyan-eta.vercel.app/)
+- ✅ **Palette Hunter** — [Repo](https://github.com/ocette/palette-hunter) / [Démo](https://palette-hunter.vercel.app/)
 - ✅ **Elips Page** — [Repo](https://github.com/Candichou/elips_page) / [Démo](https://elips-page.vercel.app/)
 
 
