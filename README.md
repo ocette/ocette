@@ -24,8 +24,8 @@ Actuellement en formation développement web fullstack, j'enrichis mon parcours 
 
 - ✅ **Palette Hunter** — [Repo](https://github.com/ocette/palette-hunter) / [Démo](https://palette-hunter.vercel.app/)
 - ✅ **Elips Page** — [Repo](https://github.com/Candichou/elips_page) / [Démo](https://elips-page.vercel.app/)
-- ✅ **Adaskill** - [Repo](https://github.com/ocette/adaskill) / [Démo](https://adaskill.vercel.app/)
-- ✅ **Adataviz** - [Repo](https://github.com/ocette/adataviz) / [Démo](https://adataviz-ocette.vercel.app/)
+- ✅ **Adaskill** — [Repo](https://github.com/ocette/adaskill) / [Démo](https://adaskill.vercel.app/)
+- ✅ **Adataviz** — [Repo](https://github.com/ocette/adataviz) / [Démo](https://adataviz-ocette.vercel.app/)
 
 
 
