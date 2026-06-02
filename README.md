@@ -26,7 +26,7 @@ Actuellement en formation développement web fullstack, j'enrichis mon parcours 
 - ✅ **Elips Page** — [Repo](https://github.com/Candichou/elips_page) / [Démo](https://elips-page.vercel.app/)
 - ✅ **Adaskill** — [Repo](https://github.com/ocette/adaskill) / [Démo](https://adaskill.vercel.app/)
 - ✅ **Adataviz** — [Repo](https://github.com/ocette/adataviz) / [Démo](https://adataviz-ocette.vercel.app/)
-- ✅ **Adaverse** — [Repo]((https://github.com/hc491/grace-adaverse-hc491)) / [Démo]((https://grace-adaverse-hc491.vercel.app/))
+- ✅ **Adaverse** — [Repo](https://github.com/hc491/grace-adaverse-hc491) / [Démo](https://grace-adaverse-hc491.vercel.app/)
 
 
 
