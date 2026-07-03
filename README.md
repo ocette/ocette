@@ -42,9 +42,37 @@ Chaque projet est pour moi l'occasion d'apprendre, d'expérimenter et d'amélior
 
 ## 🚀 Projets
 
-- 🎨 **Palette Hunter** → Recherche d'images par palette de couleurs, extraction des couleurs dominantes — https://palette-hunter.vercel.app/
-- 🌍 **Adaverse** → Plateforme vitrine de projets étudiants, développée en équipe — https://grace-adaverse-hc491.vercel.app/
-- ⚡ **Elips Page** → Single page application présentant la drag queen Elips, développée en duo — https://elips-page.vercel.app/
+<table>
+  <tr>
+    <td width="33%">
+      <a href="https://palette-hunter.vercel.app/">
+        <img src="./assets/palette-hunter.png" alt="Palette Hunter" />
+      </a>
+      <br />
+      <b>🎨 Palette Hunter</b>
+      <br />
+      Recherche d'images par palette de couleurs, extraction des couleurs dominantes
+    </td>
+    <td width="33%">
+      <a href="https://grace-adaverse-hc491.vercel.app/">
+        <img src="./assets/adaverse.png" alt="Adaverse" />
+      </a>
+      <br />
+      <b>🌍 Adaverse</b>
+      <br />
+      Plateforme vitrine de projets étudiants, développée en équipe
+    </td>
+    <td width="33%">
+      <a href="https://elips-page.vercel.app/">
+        <img src="./assets/elips-page.png" alt="Elips Page" />
+      </a>
+      <br />
+      <b>⚡ Elips Page</b>
+      <br />
+      Single page application présentant la drag queen Elips, développée en duo
+    </td>
+  </tr>
+</table>
 
 ---
 
