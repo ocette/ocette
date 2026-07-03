@@ -32,7 +32,7 @@ Chaque projet est pour moi l'occasion d'apprendre, d'expérimenter et d'amélior
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
 
-**Base de données et services**
+**Backend & Déploiement**
 
 - PostgreSQL
 - Neon
