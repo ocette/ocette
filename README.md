@@ -1,42 +1,59 @@
-## Hello 👋 moi c'est Océane ! 🌻
+<h1 align="center">👋 Hello, moi c'est Océane</h1>
 
-Actuellement en formation développement web fullstack, j'enrichis mon parcours de graphiste, experte en UX/UI design
+<p align="center">
+  🎨 Frontend Developer • Passionnée par l'UX/UI Design
+</p>
 
+<p align="center">
+  À la recherche d'une alternance en développement Frontend / UX/UI Design pour Septembre 2026
+</p>
 
-### 🛠️ Ma stack
+---
 
-- **Front-end :** HTML, CSS, JavaScript, React, Next.js, TailwindCSS
-- **Back-end :** Node.js, Neon DB (PostgreSQL)
-- **Tests & outils :** Vitest, Git, GitHub
+## 🌻 À propos
+ 
+J'aime transformer des idées et des maquettes en interfaces web modernes, intuitives et accessibles, en plaçant l'expérience utilisateur au cœur de ma démarche.
 
+Chaque projet est pour moi l'occasion d'apprendre, d'expérimenter et d'améliorer mes pratiques.
 
+---
 
-### ✨ Ce qui me caractérise
+## 🛠️ Stack
 
-- Curiosité & créativité
-- Attention aux détails (merci les puzzles 🧩)
-- Empathie & envie d'aider — l'INFJ parle
-- Appétit insatiable pour apprendre (et pour manger 🍜)
+**Frontend**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
+**Design & Outils**
 
-### 🚀 Mes projets
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
 
-- ✅ **Palette Hunter** — [Repo](https://github.com/ocette/palette-hunter) / [Démo](https://palette-hunter.vercel.app/)
-- ✅ **Adaverse** — [Repo](https://github.com/hc491/grace-adaverse-hc491) / [Démo](https://grace-adaverse-hc491.vercel.app/)
-- ✅ **Elips Page** — [Repo](https://github.com/Candichou/elips_page) / [Démo](https://elips-page.vercel.app/)
-- ✅ **Adaskill** — [Repo](https://github.com/ocette/adaskill) / [Démo](https://adaskill.vercel.app/)
-- ✅ **Adataviz** — [Repo](https://github.com/ocette/adataviz) / [Démo](https://adataviz-ocette.vercel.app/)
+**Base de données et services**
 
+- PostgreSQL
+- Neon
+- Vercel
 
+---
 
-### 🔍 Je recherche une alternance
+## 🚀 Projets
 
-🗓️ Disponible à partir de **septembre 2026** · 24 mois · Région parisienne · Remote OK
+- 🎨 **Palette Hunter** → Recherche d'images par palette de couleurs, extraction des couleurs dominantes — https://palette-hunter.vercel.app/
+- 🌍 **Adaverse** → Plateforme vitrine de projets étudiants, développée en équipe — https://grace-adaverse-hc491.vercel.app/
+- ⚡ **Elips Page** → Single page application présentant la drag queen Elips, développée en duo — https://elips-page.vercel.app/
 
+---
 
+## 📫 Contact
 
-### 📫 Me contacter
+💼 LinkedIn : https://www.linkedin.com/in/oceane-thauvin-a53b36141/  
+🌐 Portfolio : https://portfolio-ocette.vercel.app/  
+📧 Email : oceane.thauvin@yahoo.fr  
 
-💼 [Mon profil LinkedIn](https://www.linkedin.com/in/océane-thauvin-a53b36141/)  
-✉️ [oceane.thauvin@yahoo.fr](mailto:oceane.thauvin@yahoo.fr)
+---
+
+💛 *Créer des interfaces simples, utiles et agréables à utiliser.*
