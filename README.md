@@ -51,7 +51,7 @@ Chaque projet est pour moi l'occasion d'apprendre, d'expérimenter et d'amélior
       <br />
       <b>🎨 Palette Hunter</b>
       <br />
-      Application permettant la recherche d'images par palette de couleurs
+      Recherche d'images par couleurs, extraction de palettes
     </td>
     <td width="33%">
       <a href="https://grace-adaverse-hc491.vercel.app/">
