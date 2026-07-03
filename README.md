@@ -78,7 +78,7 @@ Chaque projet est pour moi l'occasion d'apprendre, d'expérimenter et d'amélior
 
 ## 📫 Contact
 
-💼 LinkedIn : https://www.linkedin.com/in/oceane-thauvin-a53b36141/  
+💼 LinkedIn : https://www.linkedin.com/in/oceane-thauvin/  
 🌐 Portfolio : https://portfolio-ocette.vercel.app/  
 📧 Email : oceane.thauvin@yahoo.fr  
 
